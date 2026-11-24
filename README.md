@@ -11,6 +11,7 @@
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
 | Mateus Farias Bentes | 2419821 | MateusBentes3206 |
+| Ingra Lorraine | 0401263 |  |
 
 ## O cenário
 
